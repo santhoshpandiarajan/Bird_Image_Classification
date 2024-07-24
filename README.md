@@ -1,5 +1,5 @@
 # Bird-Classifier
-It is a python project to classify birds. #SubashPalvel #subashpalvel #subash #palvel #SUBASHPALVEL
+It is a python project to classify birds.
 
 
 This time, our aim is to categorise various bird species. For those working in the forest departments, who
